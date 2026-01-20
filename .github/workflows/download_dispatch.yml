@@ -1,4 +1,4 @@
-name: 下载JM本子 (dispatch)
+name: download_JM (dispatch)
 
 on:
   workflow_dispatch:
