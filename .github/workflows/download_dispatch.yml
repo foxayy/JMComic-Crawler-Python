@@ -1,4 +1,4 @@
-name: download_JM (dispatch)
+name: Download_JM (dispatch)
 
 on:
   workflow_dispatch:
